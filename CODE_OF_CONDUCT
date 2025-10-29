@@ -1,0 +1,26 @@
+
+---
+
+#### **Task 4 – CODE_OF_CONDUCT.md (2 pts)**
+
+File name: `CODE_OF_CONDUCT.md`
+
+Example content:
+```markdown
+# Code of Conduct
+
+We are committed to fostering an open and welcoming environment.
+
+## Our Pledge
+We pledge to make participation in this project a harassment-free experience for everyone.
+
+## Our Standards
+Examples of behavior that contributes to a positive environment include:
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints
+- Showing empathy towards others
+
+## Enforcement
+Instances of abusive behavior may be reported to the project team at <your-email>.
+
+This Code of Conduct is adapted from the Contributor Covenant (version 2.1).
