@@ -1,2 +1,5 @@
-# Simple-Intrest
-This project calculates simple interest using a shell script.
+# Simple Interest Calculator
+
+This repository contains a shell script that calculates **Simple Interest** based on Principal, Rate of Interest, and Time.
+
+## Formula
